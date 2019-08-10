@@ -72,6 +72,7 @@
 			<groupId>commons-lang</groupId>
 			<artifactId>commons-lang</artifactId>
 		</dependency>
+		
 		<dependency>
 			<groupId>org.eclipse.swt</groupId>
 			<artifactId>${swt.artifactId}</artifactId>
