@@ -1,0 +1,9 @@
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>swt</groupId>
+  <artifactId>osgi</artifactId>
+  <name>Eclipse OSGI Framework</name>
+  <version>3.0.1</version>
+  <url>http://www.eclipse.org/</url>
+  <build />
+</project>

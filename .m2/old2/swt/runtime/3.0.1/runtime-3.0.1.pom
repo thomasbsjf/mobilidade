@@ -1,0 +1,17 @@
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>swt</groupId>
+  <artifactId>runtime</artifactId>
+  <name>Eclipse Runtime</name>
+  <version>3.0.1</version>
+  <url>http://www.eclipse.org/</url>
+  <build />
+  <dependencies>
+    <dependency>
+      <groupId>swt</groupId>
+      <artifactId>osgi</artifactId>
+      <version>3.0.1</version>
+      <scope>runtime</scope>
+    </dependency>
+  </dependencies>
+</project>
