@@ -57,7 +57,7 @@ public class Constants {
 	public static final int DEFAULT_SPEED = 6;
 
 	/** Amount of people. */
-	public static final int POPULATION = 100;
+	public static final int POPULATION = 1;
 
 	/** Agents go to the toilet every TOILET_INTERVAL plus minus some 200min. */
 	public static final int TOILET_BLUR = 200;
