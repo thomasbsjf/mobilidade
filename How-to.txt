@@ -2,7 +2,7 @@
 
 2 - Run "Maven install"
 
-3 - Import Siafu-<name> simulation subfolder how Maven project in Eclipse
+3 - Import Siafu-<name> simulation subfolder like Maven project in Eclipse
 
 4 - Run "Maven install".
 
