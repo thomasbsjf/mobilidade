@@ -1,0 +1,16 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Aug 15 12:30:20 BRT 2019
+https\://github.com/tfeijo/Siafu/.lastUpdated=1565883020792
+file\://home/tfeijo/.m2/repository/.error=Could not transfer artifact Siafu\:MavenParent\:pom\:1.0.6-SNAPSHOT from/to local-repo (file\://home/tfeijo/.m2/repository)\: Repository path /tfeijo/.m2/repository does not exist, and cannot be created.
+file\:///home/tfeijo/.m2/repository/.error=
+https\://github.com/tfeijo/Siafu/.error=
+@default-local-repo-file\://home/tfeijo/.m2/repository/.lastUpdated=1565807884913
+@default-local-repo-file\://~/.m2/repository/.lastUpdated=1565807855804
+http\://maven-eclipse.github.io/maven/.lastUpdated=1565881567949
+file\:/home/tfeijo/.m2/repository/.error=
+@default-local-repo-/home/tfeijo/.m2/repository/.lastUpdated=1565412362593
+/home/tfeijo/.m2/repository/.error=Could not transfer artifact Siafu\:MavenParent\:pom\:1.0.6-SNAPSHOT from/to local-repo (/home/tfeijo/.m2/repository)\: Cannot access /home/tfeijo/.m2/repository with type default using the available connector factories\: AetherRepositoryConnectorFactory, BasicRepositoryConnectorFactory
+file\://~/.m2/repository/.error=Could not transfer artifact Siafu\:MavenParent\:pom\:1.0.6-SNAPSHOT from/to local-repo (file\://~/.m2/repository)\: Repository path /.m2/repository does not exist, and cannot be created.
+http\://maven-eclipse.github.io/maven/.error=
+file\:/home/tfeijo/.m2/repository/.lastUpdated=1565807691936
+file\:///home/tfeijo/.m2/repository/.lastUpdated=1565881567718
