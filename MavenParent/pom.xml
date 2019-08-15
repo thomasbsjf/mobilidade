@@ -16,6 +16,10 @@
 			<id>maven-eclipse-repo</id>
 			<url>http://maven-eclipse.github.io/maven</url>
 		</repository>
+		<repository>
+			<id>tfeijo-siafu-repo</id>
+			<url>https://github.com/tfeijo/Siafu</url>
+		</repository>
 	</repositories>
 
 	<build>
