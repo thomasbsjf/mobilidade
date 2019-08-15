@@ -1,6 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Sat Aug 10 01:46:02 BRT 2019
-@default-local-repo-/home/tfeijo/.m2/repository/.lastUpdated=1565412362593
-/home/tfeijo/.m2/repository/.error=Could not transfer artifact Siafu\:MavenParent\:pom\:1.0.6-SNAPSHOT from/to local-repo (/home/tfeijo/.m2/repository)\: Cannot access /home/tfeijo/.m2/repository with type default using the available connector factories\: AetherRepositoryConnectorFactory, BasicRepositoryConnectorFactory
-http\://maven-eclipse.github.io/maven/.error=
-http\://maven-eclipse.github.io/maven/.lastUpdated=1565408323545
